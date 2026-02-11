@@ -52,6 +52,8 @@ SmartBMI/
 └── README.md
 ```
 
+---
+
 ## 🚀 Live Demo
 
 Check out the live app: https://bmi-health-predict.vercel.app
@@ -91,6 +93,18 @@ vercel --prod
 
 ---
 
+## 🛠 Future Enhancements
 
+- User authentication & profile system
+
+- Cloud storage for BMI history
+
+- Integration with wearable devices (Fitbit, Apple Health)
+
+- AI-based health recommendations
+
+- Dark mode toggle
+
+- Multi-language support
 
 
