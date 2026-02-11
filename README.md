@@ -22,13 +22,13 @@ It is designed for both **desktop and mobile users**, with an intuitive UI and i
 
 ## 🛠 Tech Stack
 
-| Layer | Technology |
-|-------|------------|
-| Frontend | React, TypeScript, Vite |
-| Styling | TailwindCSS |
-| Charts / Visualization | Recharts / Custom Components |
-| State Management | React Context + Custom Hooks |
-| Deployment | Vercel (Free Tier) |
+| Layer                  | Technology                     |
+|------------------------|--------------------------------|
+| Frontend               | React, TypeScript, Vite        |
+| Styling                | TailwindCSS                    |
+| Charts / Visualization | Recharts / Custom Components   |
+| State Management       | React Context + Custom Hooks   |
+| Deployment             | Vercel (Free Tier)             |
 
 ---
 
@@ -50,68 +50,3 @@ SmartBMI/
 ├── vite.config.ts
 ├── tailwind.config.ts
 └── README.md
-🚀 Live Demo
-Check out the live app: https://bmi-health-predict.vercel.app
-
-💻 Installation & Setup
-Clone the repository
-
-git clone https://github.com/Manish-Kumar24/SmartBMI.git
-cd SmartBMI
-Install dependencies
-
-npm install
-Start development server
-
-npm run dev
-Open your browser at http://localhost:5173
-
-Build for production
-
-npm run build
-Production-ready files are generated in the dist folder.
-
-📦 Deployment
-Deployed on Vercel (Free Tier):
-
-vercel --prod
-Live URL: https://bmi-health-predict.vercel.app
-
-🛠 Future Enhancements
-User authentication & profile system
-
-Cloud storage for BMI history
-
-Integration with wearable devices (Fitbit, Apple Health)
-
-AI-based health recommendations
-
-Dark mode toggle
-
-Multi-language support
-
-👨‍💻 Author
-Manish Kumar
-
-GitHub: https://github.com/Manish-Kumar24
-
-LinkedIn: (Add your LinkedIn URL)
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
----
-
-✅ **What this README includes**:  
-
-- Badges (Vercel deployment + MIT license)  
-- Detailed project description & features  
-- Tech stack table  
-- Directory structure  
-- Installation and development instructions  
-- Deployment instructions  
-- Future roadmap  
-- Author section + license  
-
----
