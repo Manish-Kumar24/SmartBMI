@@ -50,3 +50,8 @@ SmartBMI/
 ├── vite.config.ts
 ├── tailwind.config.ts
 └── README.md
+```
+
+## 🚀 Live Demo
+
+Check out the live app: https://bmi-health-predict.vercel.app
