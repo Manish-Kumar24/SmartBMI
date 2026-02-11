@@ -77,3 +77,10 @@ npm run dev
 npm run build
 ```
 - Production-ready files are generated in the dist folder.
+
+## 📦 Deployment
+  - Deployed on Vercel (Free Tier):
+```bash
+vercel --prod
+```
+  - Live URL: https://bmi-health-predict.vercel.app
