@@ -56,6 +56,8 @@ SmartBMI/
 
 Check out the live app: https://bmi-health-predict.vercel.app
 
+---
+
 ## 💻 Installation & Setup
 
 1. **Clone the repository:**
@@ -78,9 +80,17 @@ npm run build
 ```
 - Production-ready files are generated in the dist folder.
 
+---
+
 ## 📦 Deployment
   - Deployed on Vercel (Free Tier):
 ```bash
 vercel --prod
 ```
   - Live URL: https://bmi-health-predict.vercel.app
+
+---
+
+
+
+
