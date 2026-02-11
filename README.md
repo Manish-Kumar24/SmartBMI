@@ -55,3 +55,25 @@ SmartBMI/
 ## 🚀 Live Demo
 
 Check out the live app: https://bmi-health-predict.vercel.app
+
+## 💻 Installation & Setup
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Manish-Kumar24/SmartBMI.git
+cd SmartBMI
+```
+2. **Install dependencies:**
+```bash
+npm install
+```
+3. **Start development server:**
+```bash
+npm run dev
+```
+- Open your browser at http://localhost:5173
+4. **Build for production:**
+```bash
+npm run build
+```
+- Production-ready files are generated in the dist folder.
