@@ -109,6 +109,12 @@ vercel --prod
 **Manish Kumar**
 
 - GitHub: https://github.com/Manish-Kumar24
-- LinkedIn: (https://www.linkedin.com/in/manish-kumar-2aug2004/)
+- LinkedIn: https://www.linkedin.com/in/manish-kumar-2aug2004/
+
+---
+
+##📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
