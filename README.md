@@ -62,21 +62,21 @@ Check out the live app: https://bmi-health-predict.vercel.app
 
 ## 💻 Installation & Setup
 
-1. **Clone the repository:**
+1. **Clone the repository:** 📂
 ```bash
 git clone https://github.com/Manish-Kumar24/SmartBMI.git
 cd SmartBMI
 ```
-2. **Install dependencies:**
+2. **Install dependencies:** 💾
 ```bash
 npm install
 ```
-3. **Start development server:**
+3. **Start development server:** 🚀
 ```bash
 npm run dev
 ```
 - Open your browser at http://localhost:5173
-4. **Build for production:**
+4. **Build for production:** 🏗️
 ```bash
 npm run build
 ```
@@ -113,7 +113,7 @@ vercel --prod
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
