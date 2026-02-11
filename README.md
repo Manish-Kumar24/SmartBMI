@@ -96,15 +96,19 @@ vercel --prod
 ## 🛠 Future Enhancements
 
 - User authentication & profile system
-
 - Cloud storage for BMI history
-
 - Integration with wearable devices (Fitbit, Apple Health)
-
 - AI-based health recommendations
-
 - Dark mode toggle
-
 - Multi-language support
 
+---
 
+## 👨‍💻 Author
+
+**Manish Kumar**
+
+- GitHub: https://github.com/Manish-Kumar24
+- LinkedIn: (https://www.linkedin.com/in/manish-kumar-2aug2004/)
+
+---
